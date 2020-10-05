@@ -1,6 +1,5 @@
-  
 {
-    "products" : [
+    "productList" : [
                         {
                           id: 1,
                           name: "Apple",
