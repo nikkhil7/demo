@@ -2,12 +2,12 @@
   "productList": [
     { 
       "id": 1, 
-     "name": "Apple" 
+     "name": "Apple",
      "price": 300
     },
     { 
       "id": 2, 
-     "name": "Orange" 
+     "name": "Orange",
      "price": 500
     }
   ],
